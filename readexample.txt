@@ -1,0 +1,8 @@
+Important commands
+
+git init - starts gitrepo in local
+git diff -- staged - shows the difference between files staged
+git status -
+git add . - Adds files to staging area from local repo
+git commit - adds to local repo 
+git commit --staged - shows staged files
